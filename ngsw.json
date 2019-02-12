@@ -7,12 +7,12 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://diankourenxia.github.io/ng-pwa/4.16c86099446dcce39f46.js",
+        "https://diankourenxia.github.io/ng-pwa/4.4c68eb6af0dc45c88eab.js",
         "https://diankourenxia.github.io/ng-pwa/favicon.ico",
         "https://diankourenxia.github.io/ng-pwa/index.html",
         "https://diankourenxia.github.io/ng-pwa/main.3ecf549246a04689722a.js",
         "https://diankourenxia.github.io/ng-pwa/polyfills.46532d96d3286697c138.js",
-        "https://diankourenxia.github.io/ng-pwa/runtime.d298dfda0f654bac3ad9.js",
+        "https://diankourenxia.github.io/ng-pwa/runtime.1c1cdcdb0513b81eb927.js",
         "https://diankourenxia.github.io/ng-pwa/styles.b5823b671e880a6b3da4.css"
       ],
       "patterns": []
@@ -37,7 +37,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://diankourenxia.github.io/ng-pwa/4.16c86099446dcce39f46.js": "83d46542fc4d8002d9f86e4e24c0df41dcad8b95",
+    "https://diankourenxia.github.io/ng-pwa/4.4c68eb6af0dc45c88eab.js": "8c1c977d77733ee951ad73cbbdb9174b71fbc231",
     "https://diankourenxia.github.io/ng-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://diankourenxia.github.io/ng-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://diankourenxia.github.io/ng-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -48,10 +48,10 @@
     "https://diankourenxia.github.io/ng-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://diankourenxia.github.io/ng-pwa/assets/img/header.jpeg": "4fa7bb5a94a4a6f47d9f275294b331ab6f887874",
     "https://diankourenxia.github.io/ng-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://diankourenxia.github.io/ng-pwa/index.html": "8f4c064f06118a6057635765b6efcc394f0a4318",
+    "https://diankourenxia.github.io/ng-pwa/index.html": "6a6f2fc5750cbffacda01cae2296176b35fd9d43",
     "https://diankourenxia.github.io/ng-pwa/main.3ecf549246a04689722a.js": "db880e8b7bc64f1ad706d8ff1da9c5d37e14fdab",
     "https://diankourenxia.github.io/ng-pwa/polyfills.46532d96d3286697c138.js": "6946e10a03311677a01490b8e91741668e64e17e",
-    "https://diankourenxia.github.io/ng-pwa/runtime.d298dfda0f654bac3ad9.js": "b563b8ce207b961b382f255e0fdc7d682fbb33eb",
+    "https://diankourenxia.github.io/ng-pwa/runtime.1c1cdcdb0513b81eb927.js": "9913ac65b9d4c724da8bb18230954184375ff35c",
     "https://diankourenxia.github.io/ng-pwa/styles.b5823b671e880a6b3da4.css": "4423f88b668e33c6947eccd6576d64cbc20b288b"
   },
   "navigationUrls": [
